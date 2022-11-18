@@ -1,0 +1,13 @@
+{
+    "emmet.includeLanguages": {
+        "nunjucks": "html",
+        "njk": "html"
+    },
+    
+    "emmet.triggerExpansionOnTab": true,
+
+    "files.associations": {
+        "*.njk": "html"
+    }
+
+}
